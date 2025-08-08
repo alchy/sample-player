@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+code: sample-player.py
 MIDI Sampler - Opravená verze s vylepšenou interpolací
-=====================================================
+=====================================================s
 VERSION HASH: 7f8e3a9d-2025-08-05-v2.2-FIXED
 Author: Opraveno pro správnou interpolaci velocity a DbLvl
 Nástroj pro mapování vzorků na MIDI velocity a generování chybějících not
